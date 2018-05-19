@@ -51,8 +51,12 @@ $ rosrun rviz rviz -d `rospack find turtlebot3_slam`rviz/turtlebot3_slam.rviz
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 $ rosrun map_server map_saver -f $HOME/homework2/mappa
 ```
-
-![alt text](media/mappacv1sx.png "mappa piano")
+Matteo Mainenti <br>
+![alt text](media/mappacv1sx.png "mappa piano")<br>
+Leonardo Testolin <br>
+![alt text](media/parteDxCv1.png "mappa piano")<br>
+Andrea Faggion <br>
+![alt text](media/mappa_giardino.png "mappa piano")<br>
 
 
 Per la navigazione autonoma è stato usato turtlebot3_navigation.
