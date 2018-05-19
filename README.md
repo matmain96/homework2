@@ -20,6 +20,10 @@ Ruoli all'interno dell'homework:
 
 Ci siamo spartiti i compiti nel ruolo indicato, ognuno ha costruito la propria parte di piano ed eseguito la mappatura con rviz (e il video della navigazione ) in maniera autonoma, dopodichè abbiamo solo unito le tre componenti per creare il  file World finale.
 
+![alt text](media/cv1gazebo.png "mappa piano")
+![alt text](media/cv1gmaps.png "mappa piano")
+
+
 ### Installazione
 
 Come da richiesta è stato creato il file di setup  presente sulla repository principale.
@@ -47,8 +51,12 @@ $ rosrun rviz rviz -d `rospack find turtlebot3_slam`rviz/turtlebot3_slam.rviz
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 $ rosrun map_server map_saver -f $HOME/homework2/mappa
 ```
-
-![alt text](media/mappacv1sx.png "mappa piano")
+Matteo Mainenti <br>
+![alt text](media/mappacv1sx.png "mappa piano")<br>
+Leonardo Testolin <br>
+![alt text](media/parteDxCv1.png "mappa piano")<br>
+Andrea Faggion <br>
+![alt text](media/mappa_giardino.png "mappa piano")<br>
 
 
 Per la navigazione autonoma è stato usato turtlebot3_navigation.
