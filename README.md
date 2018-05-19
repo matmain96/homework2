@@ -47,8 +47,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 $ rosrun map_server map_saver -f $HOME/ros_homework_2/map/map
 ```
 
-![map](mappa/mappacv1sx.pgm)
-
+![alt text](mappa/mappacv1sx.pgm "mappa piano")
 Per la navigazione autonoma è stato usato turtlebot3_navigation.
 
 ```sh
