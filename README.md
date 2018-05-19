@@ -22,11 +22,12 @@ Ci siamo spartiti i compiti nel ruolo indicato, ognuno ha costruito la propria p
 
 ### Installazione
 
-homework2 e lanciare lo script "setup.sh" con il comando:
+Come da richiesta è stato creato il file di setup  presente sulla repository principale.
+Per lanciarlo eseguire il comando
 ```sh
 $ ./setup.sh
 ```
-Eseguire le seguenti istruzioni:
+dopodichè per iniziare la simulazione bisogna eseguire le seguenti istruzioni:
 ```sh
 $ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_gazebo turtlebot3_cv1.launch
@@ -44,7 +45,7 @@ Per mappare le parti di corridoio abbiamo utilizzato turtlebot3_teleop, ovviamen
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch
 $ rosrun rviz rviz -d `rospack find turtlebot3_slam`rviz/turtlebot3_slam.rviz
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
-$ rosrun map_server map_saver -f $HOME/ros_homework_2/map/map
+$ rosrun map_server map_saver -f $HOME/homework2/mappa
 ```
 
 ![alt text](media/mappacv1sx.png "mappa piano")
