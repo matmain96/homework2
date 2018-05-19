@@ -20,6 +20,10 @@ Ruoli all'interno dell'homework:
 
 Ci siamo spartiti i compiti nel ruolo indicato, ognuno ha costruito la propria parte di piano ed eseguito la mappatura con rviz (e il video della navigazione ) in maniera autonoma, dopodichè abbiamo solo unito le tre componenti per creare il  file World finale.
 
+![alt text](media/cv1gazebo.png "mappa piano")
+![alt text](media/cv1gmaps.png "mappa piano")
+
+
 ### Installazione
 
 Come da richiesta è stato creato il file di setup  presente sulla repository principale.
