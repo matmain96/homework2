@@ -69,8 +69,7 @@ $ rosrun rviz rviz -d `rospack find turtlebot3_navigation`rviz/turtlebot3_nav.rv
 Video del progetto  risultante, contenente tutte e tre le parti, sottostante
 
 ### Filmato
-[![video](https://www.youtube.com/watch?v=Hfh2NWvyxKU&feature=youtu.be)]
 
-
+[CLICK HERE](https://www.youtube.com/watch?v=Hfh2NWvyxKU&feature=youtu.be)
 
 
